@@ -86,7 +86,7 @@ deepstream-app -c deepstream_app_config_ssd.txt
 
 # usb Camera TEST
 
-## Check you usb camera exits and what device number is.
+## Check your usb camera exists and what device number is.
 
 ls /dev/video*
 
